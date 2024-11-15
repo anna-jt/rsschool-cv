@@ -1,9 +1,19 @@
 # Anna Jotyan
 
-Experience
-Education
-Skills
+**Contact**
+annajotyan@gmail.com
 
-content will be added
+**Summary**
+Interested in programming.
 
-test line
+**Skills**
+HTML, CSS, Javascript
+
+**Experience**
+Quality Assurance (Manual)
+
+**Education**
+RS School, Udemy coures
+
+**Languages**
+English, Russian, Armenian
